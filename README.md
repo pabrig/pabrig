@@ -27,6 +27,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 
+<a href="https://pablo-rigalli.vercel.app/"><img alt="www" src="https://img.shields.io/badge/www-pablo%20rigalli%20-blue?style=flat-square&logo=www"></a>
 <a href="https://www.linkedin.com/in/pablo-rigalli-376a04189/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pablo%20Rigalli%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:rigallipablo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rigallipablo-blue?style=flat-square&logo=gmail"></a>
 
