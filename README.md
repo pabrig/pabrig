@@ -9,8 +9,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🔭 &nbsp; I’m currently working [Contenidos-Digitales.com](https://contenidos-digitales.com/).
-- 🌱 I’m currently working with [React](https://reactjs.org/).
+- 💼 &nbsp; I’m currently working [Contenidos-Digitales.com](https://contenidos-digitales.com/).
+- 🔭 &nbsp; I’m currently working with [React](https://reactjs.org/).
 
 <br/>
 
