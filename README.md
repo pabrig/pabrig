@@ -21,8 +21,8 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Next.Js](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
-  ![Solidity](https://img.shields.io/badge/-Next-333333?style=flat&logo=solidity.js)
-  ![Web3.Js](https://img.shields.io/badge/-Next-333333?style=flat&logo=web3.js)
+  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity.js)
+  ![Web3.Js](https://img.shields.io/badge/-Web3-333333?style=flat&logo=web3.js)
   
   
 <br/>
