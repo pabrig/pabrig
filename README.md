@@ -11,6 +11,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; I’m currently working [Acid Labs](https://acid.cl/).
 - 🔭 &nbsp; I’m currently working with [React](https://reactjs.org/).
+- 🔎 &nbsp; I’m currently discovery [Web3](https://web3js.readthedocs.io/en/v1.7.3/index.html).
 
 <br/>
 
